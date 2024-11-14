@@ -1,0 +1,64 @@
+.Red{
+    color: rgb(223, 200, 200);
+    background-color: red;
+}
+.Blue{
+    color: bisque;
+    background-color: blue;
+}
+.Brown{
+    color: rgb(138, 189, 189);
+    background-color: brown;
+}
+.Green{
+    color: blanchedalmond;
+    background-color: green;
+}
+.Orange{
+    color: aqua;
+    background-color: orange;
+}
+.Black{
+    color: chartreuse;
+    background-color: black;
+}
+.Biscuit{
+    color: rgb(17, 145, 145);
+    background-color: bisque;
+}
+.Violet{
+    color: rgb(5, 91, 5);
+    background-color: violet;
+}
+.Yellow{
+    color: brown;
+    background-color: yellow;
+}
+.Grey{
+    color: rgb(15, 5, 23);
+    background-color: gray;
+}
+.Lavender{
+    color: dimgray;
+    background-color: lavender;
+}
+.Purple{
+    color: rgb(214, 189, 232);
+    background-color: purple;
+}
+.Silver{
+    color: darkblue;
+    background-color: silver;
+}
+.Maroon{
+color: rgb(207, 185, 227);
+background-color: maroon;
+}
+.Saffron{
+    color: rgb(19, 19, 101);
+    background-color: orangered;
+}
+.Pink{
+    color: darkgreen;
+    background-color: palevioletred;
+}
